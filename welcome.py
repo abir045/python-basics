@@ -1,10 +1,10 @@
-line01 = "******************" # header / footer
+line01 = "******************"  # header / footer
 line02 = "*                *"
 line03 = "*    WELCOME     *"
 
 # start with a blank line
 
-print('') 
+print('')
 
 print(line01)
 print(line02)
